@@ -22,11 +22,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import com.healthmarketscience.jackcess.Row;
 import com.healthmarketscience.jackcess.impl.DatabaseImpl;
 import static org.junit.Assert.*;
 import org.junit.Test;
